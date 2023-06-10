@@ -39,7 +39,11 @@ body{
   background: #33b0bf;
 }
 .content-bottom{
-  height: 150px;
+  height: 540px;
+  background: #c81b54;
+}
+.footer{
+  height: 100px;
   background: #f4d508;
 }
 .clearfix:after{
